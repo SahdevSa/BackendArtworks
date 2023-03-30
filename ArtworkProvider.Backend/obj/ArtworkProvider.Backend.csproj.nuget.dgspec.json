@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/girish/newArt/ArtworkProvider/ArtworkProvider.Backend/ArtworkProvider.Backend.csproj": {}
+    "/workspaces/BackendArtworks/ArtworkProvider.Backend/ArtworkProvider.Backend.csproj": {}
   },
   "projects": {
-    "/Users/girish/newArt/ArtworkProvider/ArtworkProvider.Backend/ArtworkProvider.Backend.csproj": {
+    "/workspaces/BackendArtworks/ArtworkProvider.Backend/ArtworkProvider.Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/girish/newArt/ArtworkProvider/ArtworkProvider.Backend/ArtworkProvider.Backend.csproj",
+        "projectUniqueName": "/workspaces/BackendArtworks/ArtworkProvider.Backend/ArtworkProvider.Backend.csproj",
         "projectName": "ArtworkProvider.Backend",
-        "projectPath": "/Users/girish/newArt/ArtworkProvider/ArtworkProvider.Backend/ArtworkProvider.Backend.csproj",
-        "packagesPath": "/Users/girish/.nuget/packages/",
-        "outputPath": "/Users/girish/newArt/ArtworkProvider/ArtworkProvider.Backend/obj/",
+        "projectPath": "/workspaces/BackendArtworks/ArtworkProvider.Backend/ArtworkProvider.Backend.csproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/BackendArtworks/ArtworkProvider.Backend/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/girish/.nuget/NuGet/NuGet.Config"
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -74,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/dotnet/7.0.201/sdk/7.0.201/RuntimeIdentifierGraph.json"
         }
       }
     }
