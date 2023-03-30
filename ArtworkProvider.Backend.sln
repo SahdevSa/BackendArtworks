@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33103.184
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArtworkProvider.Backend", "ArtworkProvider.Backend\ArtworkProvider.Backend.csproj", "{73FD1893-DC63-4A09-87BC-56B8AA56C677}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArtworkProvider.Backend", "ArtworkProvider.Backend/ArtworkProvider.Backend.csproj", "{73FD1893-DC63-4A09-87BC-56B8AA56C677}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtworkProvider.BackendTests", "ArtworkProvider.BackendTests\ArtworkProvider.BackendTests.csproj", "{01E1A7EC-15EE-440C-AAB2-4F5BE2BB4BAC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtworkProvider.BackendTests", "ArtworkProvider.BackendTests/ArtworkProvider.BackendTests.csproj", "{01E1A7EC-15EE-440C-AAB2-4F5BE2BB4BAC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
